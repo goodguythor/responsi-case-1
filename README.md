@@ -1,8 +1,11 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : Thoriqutsani Anastyo Rasnan  
+
 NIU : 479154  
+
 Sesi : 1
+
 Secret String : c329b12b23977c1c4ef473c846db084ca40ee4f0b248fe70178520af18896b5b20240603003821
 
 ## Checklist Responsi
